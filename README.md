@@ -1,8 +1,6 @@
 ## CJM
 <br>2<br>
 ![18 - Copy](https://github.com/shithi30/shithi30/assets/43873081/fc8965a8-e08f-4fa6-9ccf-e87d5973110d)
-<br>6<br>
-![80 - Copy](https://github.com/shithi30/shithi30/assets/43873081/3d7846ab-5f45-44fa-aac3-9c88383133f8)
 <br>8<br>
 ![90 - Copy](https://github.com/shithi30/shithi30/assets/43873081/20d3c1ad-7751-479e-9fcd-f473c914b2a7)
 <br>12<br>
@@ -26,11 +24,11 @@
 <br>31<br>
 ![266](https://github.com/shithi30/shithi30/assets/43873081/506f12e2-1b3d-4ba7-ac80-ce3c0030639d)
 <br>42<br>
-![Screenshot (310)](https://github.com/shithi30/shithi30/assets/43873081/8078020e-3609-49f2-9d17-01f2e164b715)
+![42_cpy](https://github.com/shithi30/Customer_Journey_Mapping-CJM_Campaign_Analysis/assets/43873081/b9d70c95-2e6d-4fe2-b8db-fa97dc14b2ce)
 <br>43<br>
-![Screenshot (320)](https://github.com/shithi30/shithi30/assets/43873081/aa52501c-8d5b-468a-96f7-d1b5b08ce8c6)
+![43_cpy](https://github.com/shithi30/Customer_Journey_Mapping-CJM_Campaign_Analysis/assets/43873081/87500c7f-df33-4e69-8896-065623b433c2)
 <br>44<br>
-![Screenshot (349)](https://github.com/shithi30/shithi30/assets/43873081/572ff26c-20cb-4b94-827e-886ad389d791)
+![44_cpy](https://github.com/shithi30/Customer_Journey_Mapping-CJM_Campaign_Analysis/assets/43873081/0f932a91-4989-4446-8d63-99083930374c)
 <br>52<br>
 ![image](https://github.com/shithi30/shithi30/assets/43873081/239a99b1-a56e-44aa-a9a3-ec23842951a5)
 <br>53<br>

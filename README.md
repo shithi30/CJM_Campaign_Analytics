@@ -19,7 +19,7 @@
 <img width="610" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/20d3c1ad-7751-479e-9fcd-f473c914b2a7"><br>
 </p>
 
-### Campaign Analytics
+### Campaign/Usage Analytics
 <p align="center">
 <img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/a7dc2ddb-ff02-43a2-a4d4-d4fc3c668440"><br>
 <img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/c0c410cb-c5e2-4428-88cc-a7bff347ef5d"><br>

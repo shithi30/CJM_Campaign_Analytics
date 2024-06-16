@@ -8,15 +8,15 @@
 ### Retention Analytics
 <p align="center">
 <img width="640" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/1006740a-90b9-403e-b8ab-0f2d403b94a8"><br>
-<img width="540" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/a6e2e774-f360-4933-8174-1244930ab6b3"><br>
+<img width="525" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/a6e2e774-f360-4933-8174-1244930ab6b3"><br>
 </p>
 
 ### Churn Analytics
 <p align="center">
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/3c70f740-e0a9-487e-a18d-4fe722178ee0"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/2addd261-b0ec-4e0d-9956-57d5b3bca861"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/fc8965a8-e08f-4fa6-9ccf-e87d5973110d"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/20d3c1ad-7751-479e-9fcd-f473c914b2a7"><br>
+<img width="910" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/2addd261-b0ec-4e0d-9956-57d5b3bca861"><br>
+<img width="910" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/3c70f740-e0a9-487e-a18d-4fe722178ee0"><br>
+<img width="610" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/fc8965a8-e08f-4fa6-9ccf-e87d5973110d"><br>
+<img width="610" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/20d3c1ad-7751-479e-9fcd-f473c914b2a7"><br>
 </p>
 
 ### Campaign Analytics

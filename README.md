@@ -19,14 +19,6 @@
 <img width="610" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/20d3c1ad-7751-479e-9fcd-f473c914b2a7"><br>
 </p>
 
-### Campaign/Usage Analytics
-<p align="center">
-<img width="680" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/c0c410cb-c5e2-4428-88cc-a7bff347ef5d"><br>
-<img width="630" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/506f12e2-1b3d-4ba7-ac80-ce3c0030639d"><br>
-<img width="760" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/b71f59eb-6fe6-4322-acfb-e40d4e2955ee"><br>
-<img width="1000" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/239a99b1-a56e-44aa-a9a3-ec23842951a5"><br>
-</p>
-
 ### Registration/Acquisition Analytics
 <p align="center">
 <img width="430" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/fa5e3fbf-c2f7-4b05-831c-53dbe34898fd"><br>
@@ -34,3 +26,10 @@
 <img width="685" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/fb5b5a55-2fb1-4750-b34c-78e05aa53245"><br>
 </p>
 
+### Campaign/Usage Analytics
+<p align="center">
+<img width="680" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/c0c410cb-c5e2-4428-88cc-a7bff347ef5d"><br>
+<img width="630" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/506f12e2-1b3d-4ba7-ac80-ce3c0030639d"><br>
+<img width="760" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/b71f59eb-6fe6-4322-acfb-e40d4e2955ee"><br>
+<img width="1000" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/239a99b1-a56e-44aa-a9a3-ec23842951a5"><br>
+</p>

@@ -1,6 +1,6 @@
 ### Dashboard Analytics
 <p align="center">
-<img width="1000" alt="fl1" src="https://github.com/shithi30/Customer_Journey_Mapping-CJM_Campaign_Analysis/assets/43873081/b9d70c95-2e6d-4fe2-b8db-fa97dc14b2ce"><br>
+<img width="1050" alt="fl1" src="https://github.com/shithi30/Customer_Journey_Mapping-CJM_Campaign_Analysis/assets/43873081/b9d70c95-2e6d-4fe2-b8db-fa97dc14b2ce"><br>
 <img width="630" alt="fl1" src="https://github.com/shithi30/Customer_Journey_Mapping-CJM_Campaign_Analysis/assets/43873081/87500c7f-df33-4e69-8896-065623b433c2"><br>
 <img width="750" alt="fl1" src="https://github.com/shithi30/Customer_Journey_Mapping-CJM_Campaign_Analysis/assets/43873081/0f932a91-4989-4446-8d63-99083930374c"><br>
 </p>

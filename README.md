@@ -1,6 +1,6 @@
-TallyKhata thrives on daily CJM (Customer Journey Mapping) campaings, for retaining their user base as measured by DAUs, MAUs, RAU (Regular Active users) and PUs (Power Users). This repository houses:
+*TallyKhata* thrives on daily CJM (Customer Journey Mapping) campaings, for retaining their user-base as measured by DAUs, MAUs, RAU (Regular Active users) and PUs (Power Users). This repository houses:
 - Scripts for automated scheduling and reporting of inapp/inbox, referral, personalized, impulse and feature promotion campaigns.
-- PL/SQL stored procudures to polulate campaign metrics and user-segmentation dynamics at designated fact tables at data warehouse.
+- Stored PL/SQL procudures to polulate campaign metrics and user-segmentation dynamics at designated fact tables within data warehouse.
 
 **Tech Stack:** `PostgreSQL` `DBeaver` `Python` `Google Data Studio` `Cron jobs` `Retention, Segmentation analytics`
 

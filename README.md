@@ -39,3 +39,5 @@
 <img width="760" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/b71f59eb-6fe6-4322-acfb-e40d4e2955ee"><br>
 <img width="1000" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/239a99b1-a56e-44aa-a9a3-ec23842951a5"><br>
 </p>
+
+For understanding implications of such release analytics, [click](https://www.tallykhata.com/en/home-eng/) to know more about how *TallyKhata* business operates.
